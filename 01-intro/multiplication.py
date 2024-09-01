@@ -7,5 +7,5 @@ def multi_table(a):
 
 
 if __name__ == '__main__':
-    a = input('Enter a number: ')
+    a = input('Введите число: ')
     multi_table(float(a))
